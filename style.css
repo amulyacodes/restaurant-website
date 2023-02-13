@@ -17,6 +17,7 @@ html,body{
     margin-bottom: 32px;
     background: white;
     padding: 10px;
+    z-index: 1;
 }
 .main-container{
     display: flex;
